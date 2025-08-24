@@ -1,0 +1,18 @@
+{
+  "PlaylistTitle": "NCS 2013 TRACKS",
+  "Thumbnail": "NCS2013.jpg",
+  "Tracks": [
+    { "Artist": "Aero Chord", "Genre": "DnB", "Name": "Time Leap", "Url": "Aero Chord - Time Leap.mp3" },
+    { "Artist": "Audioscribe", "Genre": "DnB", "Name": "Skyline", "Url": "Audioscribe - Skyline.mp3" },
+    { "Artist": "Different Heaven & EH!DE", "Genre": "Drumstep", "Name": "My Heart", "Url": "Different Heaven & EH!DE - My Heart.mp3" },
+    { "Artist": "Disfigure", "Genre": "Melodic Dubstep", "Name": "Blank", "Url": "Disfigure - Blank.mp3" },
+    { "Artist": "JIKES (Ft. Nori)", "Genre": "DnB", "Name": "Let's Fly Away Pt.2", "Url": "JIKES (Ft. Nori) - Let's Fly Away Pt.2.mp3" },
+    { "Artist": "Laszlo", "Genre": "House", "Name": "Imaginary Friends", "Url": "Laszlo - Imaginary Friends.mp3" },
+    { "Artist": "SirensCeol", "Genre": "Dubstep", "Name": "Coming Home", "Url": "SirensCeol - Coming Home.mp3" },
+    { "Artist": "Spektrem", "Genre": "Progressive House", "Name": "Shine (Gabriel Drew & Bloom Remix)", "Url": "Spektrem - Shine (Gabriel Drew & Bloom Remix).mp3" },
+    { "Artist": "Spektrem", "Genre": "Progressive House", "Name": "Shine", "Url": "Spektrem - Shine.mp3" },
+    { "Artist": "Tetrix Bass Feat. Veela", "Genre": "Melodic Dubstep", "Name": "The Light", "Url": "Tetrix Bass Feat. Veela - The Light.mp3" },
+    { "Artist": "Venemy & Aznar ft. Doubletake", "Genre": "Melodic Dubstep", "Name": "Reign", "Url": "Venemy & Aznar ft. Doubletake - Reign.mp3" },
+    { "Artist": "Verm", "Genre": "Progressive House", "Name": "Explode", "Url": "Verm - Explode.mp3" }
+  ]
+}
